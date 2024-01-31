@@ -1,4 +1,5 @@
 // stack
+//small
 #include <iostream>
 #include <stack>
 using namespace std;
